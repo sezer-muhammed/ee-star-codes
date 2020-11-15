@@ -1,0 +1,13 @@
+6 Byte: 83 FPS
+10 Byte: 83 FPS
+30 Byte: 60 FPS
+50 Byte: 57 FPS
+70 Byte: 50 FPS
+90 Byte: 45 FPS
+110 Byte: 41 FPS
+130 Byte: 40 FPS
+200 Byte: 30 FPS
+500 Byte: 17 FPS
+2K Byte: 5 FPS
+
+timeoutlar: 10ms, ikisi de

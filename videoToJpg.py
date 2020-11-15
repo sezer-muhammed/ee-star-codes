@@ -1,6 +1,6 @@
 import cv2
 
-video = "23-ekm.mp4"
+video = "-- PATH--"
 cam = cv2.VideoCapture(video)
 i = 0
 while True:

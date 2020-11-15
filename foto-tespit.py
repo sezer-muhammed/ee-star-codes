@@ -54,7 +54,7 @@ tred = threading.Thread(target=grab_screen, args=(boxx,))
 tred.daemon = True
 tred.start()
 
-model_path = "C:/Users/muhammedsezer/Desktop/arac/models/research/object_detection/inference_graph/saved_model"
+model_path = "C:/Users/muhammedsezer/Desktop/arac/models/research/object_detection/inference_graph/saved_model" #PATH
 
 physical_devices = tf.config.experimental.list_physical_devices("GPU")
 tf.config.experimental.set_memory_growth(physical_devices[0], True)

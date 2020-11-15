@@ -7,8 +7,8 @@ import xml.etree.ElementTree as cET
 import random
 import xml.etree.cElementTree as ET
 
-harici_path = glob.glob('haric/*.jpg')
-labeled_path = glob.glob('input/*.jpg')
+harici_path = glob.glob('--PATH--/*.jpg')
+labeled_path = glob.glob('--PATH--/*.jpg')
 labeled_path = labeled_path * 2
 
 size = 300

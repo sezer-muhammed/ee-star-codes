@@ -10,7 +10,7 @@ from object_detection.utils import label_map_util
 import glob
 
 txtfiles = []
-for file in glob.glob("ssdnet_all_sezers_bag/*.jpg"):
+for file in glob.glob("--PATH--/*.jpg"):
     txtfiles.append(file)
 
 model_path = "C:/Users/muhammedsezer/Desktop/final-23-ekm/saved_model" #922423 ekm #9416 1ekm - amaa 23 ekm daha çok doğru bildi herhalde oran olarak

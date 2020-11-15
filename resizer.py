@@ -1,7 +1,7 @@
 import cv2
 
-input_path = "videoToJpg"
-output_path = "videoToJpg"
+input_path = "--PATH--"
+output_path = "--PATH--"
 num = 10000
 for i in range(0, num):
     try:

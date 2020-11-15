@@ -2,7 +2,7 @@ import shutil
 import glob
 
 txtfiles = []
-for file in glob.glob("all-mosaic/*.jpg"):
+for file in glob.glob("--PATH--/*.jpg"):
     txtfiles.append(file)
 
 sayac = 0

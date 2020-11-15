@@ -8,9 +8,9 @@ import random
 import xml.etree.cElementTree as ET
 import time
 size = 300
-label_ismi = "sezer"
+label_ismi = "bag"
 
-paths = glob.glob('input/*.jpg')
+paths = glob.glob('--PATH--/*.jpg')
 
 
 
